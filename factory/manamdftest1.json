@@ -1,0 +1,15 @@
+{
+	"name": "manamdftest1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "657ff4d5-cfb9-4a1a-8ea8-3f9c2f63b3f1",
+		"tenantId": "ef59e407-db22-4018-8fea-3c62aa1e443a"
+	}
+}
